@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>websocket_sharp_netstandard</RootNamespace>
+    <PackageId>websocket-sharp-netstandard1</PackageId>
+    <Authors>oscore-ltd</Authors>
+    <Product>websocket-sharp-netstandard.dll</Product>
+    <Version>2.0.0.1</Version>
+  </PropertyGroup>
+
+</Project>
